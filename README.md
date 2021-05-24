@@ -1,3 +1,6 @@
+# Next Steps: 
+[x] Adding a Metronome Component
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
